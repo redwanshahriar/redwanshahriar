@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**redwanshahriar/redwanshahriar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi, I’m @redwanshahriar
 
-Here are some ideas to get you started:
+👀 I’m interested in technology, AI, and developing scalable software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Flutter Python, and Dart
+
+💞️ I’m looking to collaborate on innovative projects that combine AI with practical applications, such as nutrition apps and full-stack web solutions.
+
+📫 How to reach me: redwanshahriar.1789@gmail.com
+
+😄 Pronouns: He
+
+⚡ Fun fact: When I'm not coding, you’ll find me listening to music or catching up on sleep
