@@ -89,5 +89,5 @@ Let's collaborate on challenging SQA projects or discuss the latest in software 
 | Platform | Link/Details |
 | :--- | :--- |
 | **Email** | redwanshahriar.1789@gmail.com |
-| **LinkedIn** | [*[Insert your LinkedIn Profile Link Here]*](https://www.linkedin.com/in/redwan-shahriar-shubho-799532240/) |
-| **GitHub** | *[Your GitHub Profile Link]* |
+| **LinkedIn** | https://www.linkedin.com/in/redwan-shahriar-shubho-799532240/ |
+| **GitHub** | https://github.com/redwanshahriar |
